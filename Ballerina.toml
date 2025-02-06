@@ -1,0 +1,8 @@
+[package]
+org = "isurus"
+name = "test_tcp_listener"
+version = "0.1.0"
+distribution = "2201.10.2"
+
+[build-options]
+observabilityIncluded = true
